@@ -1,0 +1,26 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+HETATM    1  O   UNK N   0      17.189  52.594  10.214  0.00  0.00      COX2 O  
+HETATM    2  O   UNK N   0      15.332  51.125  10.657  0.00  0.00      COX2 O  
+HETATM    3  N   UNK N   0      14.768  54.181  15.891  0.00  0.00      COX2 N  
+HETATM    4  C   UNK N   0      15.523  55.326  15.323  0.00  0.00      COX2 C  
+HETATM    5  C   UNK N   0      16.768  54.820  14.619  0.00  0.00      COX2 C  
+HETATM    6  C   UNK N   0      14.607  53.023  15.188  0.00  0.00      COX2 C  
+HETATM    7  C   UNK N   0      16.358  53.815  13.579  0.00  0.00      COX2 C  
+HETATM    8  C   UNK N   0      15.275  52.941  13.874  0.00  0.00      COX2 C  
+HETATM    9  C   UNK N   0      14.199  54.344  17.107  0.00  0.00      COX2 C  
+HETATM   10  C   UNK N   0      13.856  51.980  15.758  0.00  0.00      COX2 C  
+HETATM   11  C   UNK N   0      13.442  53.339  17.707  0.00  0.00      COX2 C  
+HETATM   12  C   UNK N   0      13.267  52.128  17.019  0.00  0.00      COX2 C  
+HETATM   13  C   UNK N   0      17.058  53.739  12.364  0.00  0.00      COX2 C  
+HETATM   14  C   UNK N   0      14.890  52.010  12.890  0.00  0.00      COX2 C  
+HETATM   15  C   UNK N   0      16.642  52.805  11.442  0.00  0.00      COX2 C  
+HETATM   16  C   UNK N   0      15.585  51.968  11.696  0.00  0.00      COX2 C  
+HETATM   17  C   UNK N   0      12.857  53.508  18.973  0.00  0.00      COX2 C  
+HETATM   18  C   UNK N   0      12.511  51.103  17.612  0.00  0.00      COX2 C  
+HETATM   19  C   UNK N   0      12.107  52.483  19.549  0.00  0.00      COX2 C  
+HETATM   20  C   UNK N   0      16.352  51.528   9.721  0.00  0.00      COX2 C  
+HETATM   21  C   UNK N   0      11.934  51.281  18.870  0.00  0.00      COX2 C  
+HETATM   22  O   UNK N   0      13.011  54.677  19.664  0.00  0.00      COX2 O  
+HETATM   23  C   UNK N   0      12.010  55.673  19.477  0.00  0.00      COX2 C  
+HETATM   24  O   UNK N   0      11.539  52.644  20.777  0.00  0.00      COX2 O  
+HETATM   25  C   UNK N   0      11.771  51.616  21.740  0.00  0.00      COX2 C  

@@ -1,0 +1,24 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+HETATM    1  C   UNK N   0       5.804  34.976  16.020  0.00  0.00      COX2 C  
+HETATM    2  C   UNK N   0       6.209  33.841  16.975  0.00  0.00      COX2 C  
+HETATM    3  C   UNK N   0       6.574  32.595  16.206  0.00  0.00      COX2 C  
+HETATM    4  C   UNK N   0       7.454  31.650  16.761  0.00  0.00      COX2 C  
+HETATM    5  C   UNK N   0       7.803  30.487  16.038  0.00  0.00      COX2 C  
+HETATM    6  C   UNK N   0       7.241  30.275  14.769  0.00  0.00      COX2 C  
+HETATM    7  C   UNK N   0       6.363  31.219  14.220  0.00  0.00      COX2 C  
+HETATM    8  C   UNK N   0       6.041  32.377  14.929  0.00  0.00      COX2 C  
+HETATM    9  O   UNK N   0       8.678  29.567  16.528  0.00  0.00      COX2 O  
+HETATM   10  C   UNK N   0       9.946  29.847  16.998  0.00  0.00      COX2 C  
+HETATM   11  O   UNK N   0       7.556  29.158  14.077  0.00  0.00      COX2 O  
+HETATM   12  H   UNK N   0       7.294  28.278  14.386  0.00  0.00      COX2 H  
+HETATM   13  C   UNK N   0       4.360  35.391  16.171  0.00  0.00      COX2 C  
+HETATM   14  O   UNK N   0       3.470  34.756  15.621  0.00  0.00      COX2 O  
+HETATM   15  C   UNK N   0       4.032  36.610  17.004  0.00  0.00      COX2 C  
+HETATM   16  C   UNK N   0       3.385  36.279  18.367  0.00  0.00      COX2 C  
+HETATM   17  O   UNK N   0       2.391  35.294  18.227  0.00  0.00      COX2 O  
+HETATM   18  H   UNK N   0       2.572  34.585  18.899  0.00  0.00      COX2 H  
+HETATM   19  C   UNK N   0       4.450  35.851  19.398  0.00  0.00      COX2 C  
+HETATM   20  C   UNK N   0       4.800  36.997  20.359  0.00  0.00      COX2 C  
+HETATM   21  C   UNK N   0       5.886  36.571  21.355  0.00  0.00      COX2 C  
+HETATM   22  C   UNK N   0       7.118  37.477  21.243  0.00  0.00      COX2 C  
+HETATM   23  C   UNK N   0       6.818  38.883  21.757  0.00  0.00      COX2 C  
