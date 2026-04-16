@@ -1,0 +1,5 @@
+*.phr
+*.psq
+*.pin
+input/genomes/
+input/msa_inputs_hit_seq - Copy/
