@@ -1,0 +1,30 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM     13  HN  UNK N   0      22.756  34.639  62.892  1.00  0.00      5IKQ H  
+TER      14      UNK N   0 
+HETATM    1  C   UNK N   0      25.364  31.650  65.218  0.00  0.00      5IKQ C  
+HETATM    2  C   UNK N   0      27.499  30.139  66.222  0.00  0.00      5IKQ C  
+HETATM    3  C   UNK N   0      26.204  30.951  64.340  0.00  0.00      5IKQ C  
+HETATM    4  C   UNK N   0      25.597  31.595  66.599  0.00  0.00      5IKQ C  
+HETATM    5  C   UNK N   0      27.267  30.196  64.841  0.00  0.00      5IKQ C  
+HETATM    6  C   UNK N   0      26.660  30.838  67.099  0.00  0.00      5IKQ C  
+HETATM    7  C   UNK N   0      24.255  32.454  64.691  0.00  0.00      5IKQ C  
+HETATM    8  C   UNK N   0      22.935  32.389  65.074  0.00  0.00      5IKQ C  
+HETATM    9  C   UNK N   0      22.347  31.485  66.107  0.00  0.00      5IKQ C  
+HETATM   10  O   UNK N   0      22.255  33.266  64.371  0.00  0.00      5IKQ O  
+HETATM   11  N   UNK N   0      23.037  33.909  63.546  0.00  0.00      5IKQ N  
+HETATM   12  C   UNK N   0      24.285  33.431  63.718  0.00  0.00      5IKQ C  
+HETATM   14  C   UNK N   0      25.448  33.911  62.962  0.00  0.00      5IKQ C  
+HETATM   15  C   UNK N   0      26.694  34.041  63.595  0.00  0.00      5IKQ C  
+HETATM   16  C   UNK N   0      27.794  34.529  62.882  0.00  0.00      5IKQ C  
+HETATM   17  C   UNK N   0      27.654  34.889  61.538  0.00  0.00      5IKQ C  
+HETATM   18  C   UNK N   0      26.415  34.759  60.903  0.00  0.00      5IKQ C  
+HETATM   19  C   UNK N   0      25.312  34.271  61.614  0.00  0.00      5IKQ C  
+HETATM   20  S   UNK N   0      28.819  29.116  66.872  0.00  0.00      5IKQ S  
+HETATM   21  O   UNK N   0      29.612  28.314  65.828  0.00  0.00      5IKQ O  
+HETATM   22  O   UNK N   0      29.909  29.897  67.621  0.00  0.00      5IKQ O  
+HETATM   23  N   UNK N   0      28.230  27.940  68.029  0.00  0.00      5IKQ N  
+HETATM   24  C   UNK N   0      27.221  27.094  67.700  0.00  0.00      5IKQ C  
+HETATM   25  O   UNK N   0      26.794  27.059  66.554  0.00  0.00      5IKQ O  
+HETATM   26  H   UNK N   0      28.566  27.993  69.002  0.00  0.00      5IKQ H  
+HETATM   27  C   UNK N   0      26.567  26.249  68.753  0.00  0.00      5IKQ C  
+HETATM   28  C   UNK N   0      25.164  25.875  68.279  0.00  0.00      5IKQ C  

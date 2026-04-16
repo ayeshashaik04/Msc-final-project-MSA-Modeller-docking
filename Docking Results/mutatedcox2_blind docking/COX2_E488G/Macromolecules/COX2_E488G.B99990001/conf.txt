@@ -1,0 +1,8 @@
+receptor = COX2_E488G.B99990001.pdbqt
+exhaustiveness  = 8
+center_x = 31.5536
+center_y = 49.4969
+center_z = 13.2702
+size_x = 129.753687935
+size_y = 85.4030202198
+size_z = 150.96554924

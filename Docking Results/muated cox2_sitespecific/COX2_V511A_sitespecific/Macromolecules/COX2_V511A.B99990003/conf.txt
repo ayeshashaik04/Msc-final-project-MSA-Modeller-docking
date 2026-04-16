@@ -1,0 +1,8 @@
+receptor = COX2_V511A.B99990003.pdbqt
+exhaustiveness  = 8
+center_x = 24.3728795741
+center_y = 48.1389357069
+center_z = 13.5987
+size_x = 77.4147869506
+size_y = 58.9635914339
+size_z = 25.0

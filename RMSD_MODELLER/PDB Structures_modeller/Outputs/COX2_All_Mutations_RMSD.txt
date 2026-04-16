@@ -1,0 +1,1 @@
+RMSD between Template and COX2_All_Mutations Model: 2.330 Å

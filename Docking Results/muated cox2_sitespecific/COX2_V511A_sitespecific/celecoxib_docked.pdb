@@ -1,0 +1,31 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      3  HN  UNK N   0      10.655  39.968  25.715  1.00  0.00      COX2 H  
+TER       4      UNK N   0 
+HETATM    1  N   UNK N   0       9.831  38.004  25.585  0.00  0.00      COX2 N  
+HETATM    2  N   UNK N   0      10.590  39.009  26.056  0.00  0.00      COX2 N  
+HETATM    4  C   UNK N   0       9.975  36.833  26.271  0.00  0.00      COX2 C  
+HETATM    5  C   UNK N   0       9.274  35.611  25.963  0.00  0.00      COX2 C  
+HETATM    6  C   UNK N   0      10.895  37.092  27.260  0.00  0.00      COX2 C  
+HETATM    7  C   UNK N   0      11.237  38.446  27.079  0.00  0.00      COX2 C  
+HETATM    8  C   UNK N   0       8.040  35.346  26.560  0.00  0.00      COX2 C  
+HETATM    9  C   UNK N   0       9.827  34.694  25.069  0.00  0.00      COX2 C  
+HETATM   10  C   UNK N   0       7.915  33.248  25.369  0.00  0.00      COX2 C  
+HETATM   11  C   UNK N   0       7.361  34.164  26.262  0.00  0.00      COX2 C  
+HETATM   12  C   UNK N   0       9.148  33.512  24.772  0.00  0.00      COX2 C  
+HETATM   13  C   UNK N   0       7.191  31.984  25.050  0.00  0.00      COX2 C  
+HETATM   14  C   UNK N   0       8.998  38.230  24.487  0.00  0.00      COX2 C  
+HETATM   15  C   UNK N   0       9.483  38.013  23.205  0.00  0.00      COX2 C  
+HETATM   16  C   UNK N   0       8.650  38.238  22.108  0.00  0.00      COX2 C  
+HETATM   17  C   UNK N   0       7.341  38.677  22.305  0.00  0.00      COX2 C  
+HETATM   18  C   UNK N   0       6.864  38.891  23.598  0.00  0.00      COX2 C  
+HETATM   19  C   UNK N   0       7.697  38.666  24.695  0.00  0.00      COX2 C  
+HETATM   20  S   UNK N   0       6.299  38.959  20.932  0.00  0.00      COX2 S  
+HETATM   21  O   UNK N   0       5.746  40.301  21.044  0.00  0.00      COX2 O  
+HETATM   22  O   UNK N   0       7.011  38.567  19.724  0.00  0.00      COX2 O  
+HETATM   23  N   UNK N   0       5.056  37.824  21.230  0.00  0.00      COX2 N  
+HETATM   24  H   UNK N   0       4.114  38.187  21.416  0.00  0.00      COX2 H  
+HETATM   25  H   UNK N   0       5.067  36.953  20.686  0.00  0.00      COX2 H  
+HETATM   26  C   UNK N   0      12.187  39.244  27.872  0.00  0.00      COX2 C  
+HETATM   27  F   UNK N   0      12.844  40.185  27.136  0.00  0.00      COX2 F  
+HETATM   28  F   UNK N   0      13.159  38.487  28.457  0.00  0.00      COX2 F  
+HETATM   29  F   UNK N   0      11.569  39.916  28.884  0.00  0.00      COX2 F  

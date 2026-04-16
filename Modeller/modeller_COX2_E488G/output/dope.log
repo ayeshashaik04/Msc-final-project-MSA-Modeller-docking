@@ -1,0 +1,205 @@
+
+                         MODELLER 10.8, 2025/11/04, r13157
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2025 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Windows 8 build 9200, DESKTOP-MFEP3NJ, SMP, x64
+Date and time of compilation         : 2025/11/04 18:21:16
+MODELLER executable type             : x86_64-w64
+Job starting time (YY/MM/DD HH:MM:SS): 2026/04/01 19:19:23
+
+environ____W> The class 'environ' is deprecated; use 'Environ' instead
+read_to_681_> topology.submodel read from topology file:        3
+selection__W> The class 'selection' is deprecated; use 'Selection' instead
+>> Model assessment by DOPE potential
+iatmcls_286W> MODEL atom not classified:  LEU:OXT  LEU
+preppdf_453W> No fixed restraints selected; there may be some dynamic ones.
+preppdf_454W> Restraints file was probably not read; use restraints.append().
+
+
+>> ENERGY; Differences between the model's features and restraints:
+Number of all residues in MODEL                   :      604
+Number of all, selected real atoms                :     4860    4860
+Number of all, selected pseudo atoms              :        0       0
+Number of all static, selected restraints         :        0       0
+COVALENT_CYS                                      :        F
+NONBONDED_SEL_ATOMS                               :        1
+Number of non-bonded pairs (excluding 1-2,1-3,1-4):   975955
+Dynamic pairs routine                             : 1, NATM x NATM double loop
+Atomic shift for contacts update (UPDATE_DYNAMIC) :    0.390
+LENNARD_JONES_SWITCH                              :    6.500   7.500
+COULOMB_JONES_SWITCH                              :    6.500   7.500
+RESIDUE_SPAN_RANGE                                :        1    9999
+NLOGN_USE                                         :       15
+CONTACT_SHELL                                     :   15.000
+DYNAMIC_PAIRS,_SPHERE,_COULOMB,_LENNARD,_MODELLER :        T       F       F       F       T
+SPHERE_STDV                                       :    0.050
+RADII_FACTOR                                      :    0.820
+Current energy                                    :      -51321.8906
+
+
+
+
+<< end of ENERGY.
+DOPE score               : -51321.890625
+Model: COX2_E488G.B99990001.pdb
+DOPE score: -51321.890625
+----------------------------------------
+selection__W> The class 'selection' is deprecated; use 'Selection' instead
+>> Model assessment by DOPE potential
+iatmcls_286W> MODEL atom not classified:  LEU:OXT  LEU
+preppdf_453W> No fixed restraints selected; there may be some dynamic ones.
+preppdf_454W> Restraints file was probably not read; use restraints.append().
+
+
+>> ENERGY; Differences between the model's features and restraints:
+Number of all residues in MODEL                   :      604
+Number of all, selected real atoms                :     4860    4860
+Number of all, selected pseudo atoms              :        0       0
+Number of all static, selected restraints         :        0       0
+COVALENT_CYS                                      :        F
+NONBONDED_SEL_ATOMS                               :        1
+Number of non-bonded pairs (excluding 1-2,1-3,1-4):   980332
+Dynamic pairs routine                             : 1, NATM x NATM double loop
+Atomic shift for contacts update (UPDATE_DYNAMIC) :    0.390
+LENNARD_JONES_SWITCH                              :    6.500   7.500
+COULOMB_JONES_SWITCH                              :    6.500   7.500
+RESIDUE_SPAN_RANGE                                :        1    9999
+NLOGN_USE                                         :       15
+CONTACT_SHELL                                     :   15.000
+DYNAMIC_PAIRS,_SPHERE,_COULOMB,_LENNARD,_MODELLER :        T       F       F       F       T
+SPHERE_STDV                                       :    0.050
+RADII_FACTOR                                      :    0.820
+Current energy                                    :      -52514.8164
+
+
+
+
+<< end of ENERGY.
+DOPE score               : -52514.816406
+Model: COX2_E488G.B99990002.pdb
+DOPE score: -52514.8164063
+----------------------------------------
+selection__W> The class 'selection' is deprecated; use 'Selection' instead
+>> Model assessment by DOPE potential
+iatmcls_286W> MODEL atom not classified:  LEU:OXT  LEU
+preppdf_453W> No fixed restraints selected; there may be some dynamic ones.
+preppdf_454W> Restraints file was probably not read; use restraints.append().
+
+
+>> ENERGY; Differences between the model's features and restraints:
+Number of all residues in MODEL                   :      604
+Number of all, selected real atoms                :     4860    4860
+Number of all, selected pseudo atoms              :        0       0
+Number of all static, selected restraints         :        0       0
+COVALENT_CYS                                      :        F
+NONBONDED_SEL_ATOMS                               :        1
+Number of non-bonded pairs (excluding 1-2,1-3,1-4):   970648
+Dynamic pairs routine                             : 1, NATM x NATM double loop
+Atomic shift for contacts update (UPDATE_DYNAMIC) :    0.390
+LENNARD_JONES_SWITCH                              :    6.500   7.500
+COULOMB_JONES_SWITCH                              :    6.500   7.500
+RESIDUE_SPAN_RANGE                                :        1    9999
+NLOGN_USE                                         :       15
+CONTACT_SHELL                                     :   15.000
+DYNAMIC_PAIRS,_SPHERE,_COULOMB,_LENNARD,_MODELLER :        T       F       F       F       T
+SPHERE_STDV                                       :    0.050
+RADII_FACTOR                                      :    0.820
+Current energy                                    :      -52112.6328
+
+
+
+
+<< end of ENERGY.
+DOPE score               : -52112.632813
+Model: COX2_E488G.B99990003.pdb
+DOPE score: -52112.6328125
+----------------------------------------
+selection__W> The class 'selection' is deprecated; use 'Selection' instead
+>> Model assessment by DOPE potential
+iatmcls_286W> MODEL atom not classified:  LEU:OXT  LEU
+preppdf_453W> No fixed restraints selected; there may be some dynamic ones.
+preppdf_454W> Restraints file was probably not read; use restraints.append().
+
+
+>> ENERGY; Differences between the model's features and restraints:
+Number of all residues in MODEL                   :      604
+Number of all, selected real atoms                :     4860    4860
+Number of all, selected pseudo atoms              :        0       0
+Number of all static, selected restraints         :        0       0
+COVALENT_CYS                                      :        F
+NONBONDED_SEL_ATOMS                               :        1
+Number of non-bonded pairs (excluding 1-2,1-3,1-4):   977731
+Dynamic pairs routine                             : 1, NATM x NATM double loop
+Atomic shift for contacts update (UPDATE_DYNAMIC) :    0.390
+LENNARD_JONES_SWITCH                              :    6.500   7.500
+COULOMB_JONES_SWITCH                              :    6.500   7.500
+RESIDUE_SPAN_RANGE                                :        1    9999
+NLOGN_USE                                         :       15
+CONTACT_SHELL                                     :   15.000
+DYNAMIC_PAIRS,_SPHERE,_COULOMB,_LENNARD,_MODELLER :        T       F       F       F       T
+SPHERE_STDV                                       :    0.050
+RADII_FACTOR                                      :    0.820
+Current energy                                    :      -51920.2852
+
+
+
+
+<< end of ENERGY.
+DOPE score               : -51920.285156
+Model: COX2_E488G.B99990004.pdb
+DOPE score: -51920.2851563
+----------------------------------------
+selection__W> The class 'selection' is deprecated; use 'Selection' instead
+>> Model assessment by DOPE potential
+iatmcls_286W> MODEL atom not classified:  LEU:OXT  LEU
+preppdf_453W> No fixed restraints selected; there may be some dynamic ones.
+preppdf_454W> Restraints file was probably not read; use restraints.append().
+
+
+>> ENERGY; Differences between the model's features and restraints:
+Number of all residues in MODEL                   :      604
+Number of all, selected real atoms                :     4860    4860
+Number of all, selected pseudo atoms              :        0       0
+Number of all static, selected restraints         :        0       0
+COVALENT_CYS                                      :        F
+NONBONDED_SEL_ATOMS                               :        1
+Number of non-bonded pairs (excluding 1-2,1-3,1-4):   976634
+Dynamic pairs routine                             : 1, NATM x NATM double loop
+Atomic shift for contacts update (UPDATE_DYNAMIC) :    0.390
+LENNARD_JONES_SWITCH                              :    6.500   7.500
+COULOMB_JONES_SWITCH                              :    6.500   7.500
+RESIDUE_SPAN_RANGE                                :        1    9999
+NLOGN_USE                                         :       15
+CONTACT_SHELL                                     :   15.000
+DYNAMIC_PAIRS,_SPHERE,_COULOMB,_LENNARD,_MODELLER :        T       F       F       F       T
+SPHERE_STDV                                       :    0.050
+RADII_FACTOR                                      :    0.820
+Current energy                                    :      -52808.6758
+
+
+
+
+<< end of ENERGY.
+DOPE score               : -52808.675781
+Model: COX2_E488G.B99990005.pdb
+DOPE score: -52808.6757813
+----------------------------------------
+Total CPU time [seconds]                                 :       2.50

@@ -1,0 +1,6 @@
+COX2_4mutations : RMSD = 18.963 Å
+COX2_All_mutations : RMSD = 18.976 Å
+COX2_E488G : RMSD = 18.963 Å
+COX2_P428A : RMSD = 18.963 Å
+COX2_R228H : RMSD = 18.963 Å
+COX2_V511A : RMSD = 18.963 Å

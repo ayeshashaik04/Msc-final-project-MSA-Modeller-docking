@@ -1,0 +1,8 @@
+receptor = COX2_All.pdbqt
+exhaustiveness  = 8
+center_x = 23.171780306
+center_y = 43.9615793308
+center_z = 19.1367952902
+size_x = 51.4780548778
+size_y = 57.7985711868
+size_z = 44.770784402
